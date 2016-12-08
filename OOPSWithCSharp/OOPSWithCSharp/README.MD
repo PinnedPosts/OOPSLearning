@@ -22,3 +22,15 @@ CLASS : STUDENT
 OBJECTS of class STUDENT are : Zeeshan
 							   Yogesh
 							   Dinesh
+
+=================================================================================================================
+
+INHERITANCE
+============
+
+There are multiple types of fruits: grapes,mango,apple etc.This is called INHERITANCE
+
+USECASE
+--------
+CLASS is Fruit
+There will be multiple classes,i.e Grape,Mango which inherit the properties of FRUIT(class)
